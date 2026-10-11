@@ -2,7 +2,7 @@
 <!--                            HEADER BANNER                                  -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0d1117,0f172a,1e1b4b,3b82f6,8b5cf6&height=250&section=header&text=Naveen%20S%20G&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20B.Tech%20IT%20%7C%20Full-Stack%20%26%20AI%20Enthusiast%20%7C%20Innovator&descFontSize=19&descAlignY=62&descAlign=50" width="100%" alt="Naveen S G Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:38bdf8&height=220&section=header&text=Naveen%20S%20G&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20IT%20%7C%20Full-Stack%20%26%20AI%20Enthusiast%20%7C%20Innovator&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Naveen S G Banner" />
 </div>
 
 <!-- ========================================================================= -->
@@ -20,76 +20,22 @@
 <!--                           STATUS BADGES ROW                               -->
 <!-- ========================================================================= -->
 <div align="center">
-  <a href="https://github.com/naveen-1811">
-    <img src="https://komarev.com/ghpvc/?username=naveen-1811&style=for-the-badge&color=00b4d8&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
   <img src="https://img.shields.io/badge/Degree-B.Tech_IT_2028-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=academic-cap" alt="Degree" />
   <img src="https://img.shields.io/badge/Institution-SVCE-38bdf8?style=for-the-badge&labelColor=0d1117" alt="College" />
-  <img src="https://img.shields.io/badge/Ideathon-Special_Mention-00f5d4?style=for-the-badge&labelColor=0d1117" alt="Ideathon Award" />
 </div>
 
 <br />
 
 <!-- ========================================================================= -->
-<!--                    TERMINAL-INSPIRED ABOUT ME SECTION                     -->
+<!--                    PROGRAMMER CODING ANIMATION                            -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=32&section=header&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20naveen@svce-workstation:~$&fontSize=13&fontColor=38bdf8&fontAlign=6&fontAlignY=65" width="100%" alt="Terminal Bar" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="460" alt="Programmer Coding Animation" />
 </div>
 
-```bash
-naveen@svce:~$ cat about_me.json
-{
-  "name": "Naveen S G",
-  "education": {
-    "degree": "B.Tech in Information Technology",
-    "institution": "Sri Venkateswara College of Engineering",
-    "graduation_year": 2028
-  },
-  "focus_domains": [
-    "Full-Stack Web Engineering",
-    "Artificial Intelligence & Machine Learning",
-    "Geospatial AI & Remote Sensing",
-    "Cybersecurity & Threat Mitigation",
-    "Data Structures & Algorithms"
-  ],
-  "leadership": [
-    "Blood Donation Joint Secretary @ Youth Red Cross",
-    "Outreach Coordinator @ Cybernova Club",
-    "Lead Volunteer @ Youth Red Cross"
-  ],
-  "hobbies": ["🏸 Badminton", "📚 Reading", "🎨 Drawing"],
-  "motto": "Transforming abstract logic into elegant, resilient digital reality."
-}
-```
-
-<!-- Split Card Table for Academic & Domain Highlights -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Core Areas of Interest</h3>
-      <ul>
-        <li>🌐 <b>Full-Stack Development:</b> Crafting responsive, scalable web platforms with clean architectural patterns.</li>
-        <li>🤖 <b>AI & Machine Learning:</b> Developing intelligent models, automation pipelines, and data-driven insights.</li>
-        <li>🛰️ <b>Geospatial AI & Remote Sensing:</b> Leveraging satellite imagery, spatial algorithms, and environmental analysis.</li>
-        <li>🛡️ <b>Cybersecurity:</b> Understanding vulnerability mitigation, secure system design, and network defense.</li>
-        <li>🧩 <b>Data Structures & Algorithms:</b> Problem-solving, performance profiling, and algorithmic efficiency.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ Academic & Leadership Profile</h3>
-      <ul>
-        <li>🎓 <b>Academic Track:</b> B.Tech Information Technology at Sri Venkateswara College of Engineering (Batch of 2028).</li>
-        <li>💡 <b>Ideathon Recognition:</b> Honored with <i>Special Mention</i> for innovative problem-solving.</li>
-        <li>🩸 <b>Youth Red Cross:</b> Serving as <b>Blood Donation Joint Secretary</b> and <b>Lead Volunteer</b> for impactful community drives.</li>
-        <li>🌐 <b>Cybernova Club:</b> Leading external engagement and networking as <b>Outreach Coordinator</b>.</li>
-        <li>🎯 <b>Interests & Hobbies:</b> Badminton 🏸 • Book Reading 📚 • Creative Drawing 🎨</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" />
+</p>
 
 <!-- ========================================================================= -->
 <!--                          TECH STACK SHOWCASE                              -->
@@ -260,5 +206,5 @@ naveen@svce:~$ cat about_me.json
   <br /><br />
   <p><i>"Engineering resilient software through clean architecture and continuous curiosity."</i></p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0d1117,1e1b4b,3b82f6,8b5cf6&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e1b4b,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
