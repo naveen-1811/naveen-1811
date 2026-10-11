@@ -9,7 +9,7 @@
 <!--                            HEADER BANNER                                  -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:38bdf8&height=220&section=header&text=Naveen%20S%20G&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20IT%20%7C%20Full-Stack%20%26%20AI%20Enthusiast%20%7C%20Innovator&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Naveen S G Banner" />
+  <img src="assets/header-banner.svg" width="100%" alt="Naveen S G Banner" />
 </div>
 
 <div align="center">
@@ -30,31 +30,12 @@
 <h3>⚡ About Me</h3>
 
 <p>
-  Welcome to my GitHub profile! I am <b>Naveen S G</b>, an Information Technology undergraduate at <b>Sri Venkateswara College of Engineering</b> (Expected graduation: 2028). I focus on engineering resilient full-stack web applications, designing intelligent AI and Machine Learning models, exploring geospatial remote sensing architectures, and mastering data structures & cybersecurity concepts.
+  👋 Welcome to my GitHub profile!
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Academic & Milestones</h4>
-      <ul>
-        <li>🏛️ <b>Institution:</b> Sri Venkateswara College of Engineering (SVCE)</li>
-        <li>📜 <b>Degree:</b> B.Tech Information Technology (Class of 2028)</li>
-        <li>💡 <b>Ideathon:</b> Honored with <i>Special Mention</i> for innovative problem solving</li>
-        <li>🎯 <b>Interests & Hobbies:</b> Badminton 🏸 • Book Reading 📚 • Creative Drawing 🎨</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Core Domains & Leadership</h4>
-      <ul>
-        <li>🌐 <b>Engineering Focus:</b> Full-Stack Web Development, AI/ML, Geospatial AI & Remote Sensing</li>
-        <li>🛡️ <b>Systems & DSA:</b> Cybersecurity, System Resilience, Algorithms & Problem Solving</li>
-        <li>🩸 <b>Youth Red Cross:</b> Blood Donation Joint Secretary & Lead Volunteer</li>
-        <li>🌐 <b>Cybernova Club:</b> Outreach Coordinator</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p>
+  I'm <b>Naveen S G</b>, an Information Technology undergraduate at <b>Sri Venkateswara College of Engineering</b>, graduating in 2028. I'm passionate about full-stack development, Artificial Intelligence and Machine Learning, and building practical software solutions. I'm continuously strengthening my skills in Data Structures and Algorithms, and software engineering while exploring new technologies and creating projects that solve real-world problems.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" alt="Programmer Coding Animation" />
@@ -180,33 +161,6 @@
   </a>
 </p>
 
-<!-- ========================================================================= -->
-<!--                    HONORS, LEADERSHIP & EXTRACURRICULAR                    -->
-<!-- ========================================================================= -->
-<h3>🎖️ Honors & Leadership</h3>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <b>💡 Ideathon — Special Mention</b><br />
-      Recognized for innovative thinking, teamwork, and technical solution design during competitive ideation.
-    </td>
-    <td width="50%">
-      <b>🩸 Youth Red Cross — Blood Donation Joint Secretary</b><br />
-      Leading and coordinating voluntary blood donation camps, donor recruitment, and community health initiatives.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🌐 Cybernova Club — Outreach Coordinator</b><br />
-      Managing external partnerships, technical events, community engagement, and cross-college workshops.
-    </td>
-    <td width="50%">
-      <b>🤝 Youth Red Cross — Lead Volunteer</b><br />
-      Mobilizing volunteer teams for community service drives, health awareness campaigns, and youth welfare.
-    </td>
-  </tr>
-</table>
 
 <!-- ========================================================================= -->
 <!--                         FOOTER & CONNECT                                  -->

@@ -1,0 +1,105 @@
+<svg
+  width="100%"
+  height="140"
+  viewBox="0 0 1200 140"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <!-- Background Gradient Matching the Pixel-Art Room -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e1a"/>
+    </linearGradient>
+
+    <!-- Neon Cyberpunk Gradient (Cyan -> Electric Indigo -> Purple -> Magenta) -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="35%" stop-color="#38bdf8"/>
+      <stop offset="68%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <!-- Fluid Ambient Cyber Waves Matching Screen Glows -->
+    <linearGradient id="cyberWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <linearGradient id="cyberWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#00f5ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <!-- Soft Luminous Neon Glow -->
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur1"/>
+      <feGaussianBlur stdDeviation="16" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .name-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 64px;
+      letter-spacing: 5px;
+    }
+  </style>
+
+  <!-- Seamless Canvas Base -->
+  <rect width="1200" height="140" fill="url(#bgGrad)"/>
+
+  <!-- Fluid Animated Cyan / Purple Wave 1 -->
+  <path fill="url(#cyberWave1)">
+    <animate
+      attributeName="d"
+      dur="12s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+      keyTimes="0; 0.33; 0.67; 1"
+      values="
+        M0,95 Q300,75 600,105 T1200,95 L1200,140 L0,140 Z;
+        M0,110 Q300,125 600,90 T1200,110 L1200,140 L0,140 Z;
+        M0,90 Q300,105 600,80 T1200,95 L1200,140 L0,140 Z;
+        M0,95 Q300,75 600,105 T1200,95 L1200,140 L0,140 Z
+      "
+    />
+  </path>
+
+  <!-- Fluid Animated Indigo / Blue Wave 2 -->
+  <path fill="url(#cyberWave2)">
+    <animate
+      attributeName="d"
+      dur="16s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+      keyTimes="0; 0.33; 0.67; 1"
+      values="
+        M0,115 Q300,135 600,100 T1200,115 L1200,140 L0,140 Z;
+        M0,100 Q300,85 600,120 T1200,105 L1200,140 L0,140 Z;
+        M0,120 Q300,105 600,125 T1200,115 L1200,140 L0,140 Z;
+        M0,115 Q300,135 600,100 T1200,115 L1200,140 L0,140 Z
+      "
+    />
+  </path>
+
+  <!-- Top Cyber Neon Accent Line -->
+  <line x1="100" y1="2" x2="1100" y2="2" stroke="url(#nameGrad)" stroke-width="2.5" stroke-linecap="round" opacity="0.75"/>
+
+  <!-- Neon Glowing Base Layer -->
+  <text x="600" y="86" text-anchor="middle" class="name-title" fill="url(#nameGrad)" filter="url(#neonGlow)">Naveen S G</text>
+
+  <!-- Crisp Core Text -->
+  <text x="600" y="86" text-anchor="middle" class="name-title" fill="#ffffff" opacity="0.95">Naveen S G</text>
+</svg>
