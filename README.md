@@ -1,188 +1,222 @@
 <!-- ========================================================================= -->
+<!--                  ANIMATED PIXEL-ART PROGRAMMER BANNER                     -->
+<!-- ========================================================================= -->
+<p align="center">
+  <img src="assets/programmer-banner.gif" width="100%" alt="Pixel-Art Programmer Coding Workspace" />
+</p>
+
+<!-- ========================================================================= -->
 <!--                            HEADER BANNER                                  -->
 <!-- ========================================================================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:38bdf8&height=220&section=header&text=Naveen%20S%20G&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20IT%20%7C%20Full-Stack%20%26%20AI%20Enthusiast%20%7C%20Innovator&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Naveen S G Banner" />
 </div>
 
-<!-- ========================================================================= -->
-<!--                        ANIMATED TYPING HEADLINE                           -->
-<!-- ========================================================================= -->
 <div align="center">
+  <h3>Hello Fellow Developers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand" /></h3>
   <a href="https://github.com/naveen-1811">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=52&lines=Hi+there!+%F0%9F%91%8B+I'm+Naveen+S+G;B.Tech+Information+Technology+@+SVCE;Full-Stack+Web+Developer+%7C+AI+%26+ML+Explorer;Passionate+about+Geospatial+AI+%26+Cybersecurity;Building+Intelligent+%26+Scalable+Solutions;Driven+by+Continuous+Learning+%26+Clean+Code" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Hi+there!+I'm+Naveen+S+G;B.Tech+Information+Technology+@+SVCE;Full-Stack+Web+Developer+%7C+AI+%26+ML+Explorer;Passionate+about+Geospatial+AI+%26+Cybersecurity;Building+Intelligent+%26+Scalable+Solutions" alt="Typing Headline" />
   </a>
+  <p>
+    <img src="https://img.shields.io/badge/Degree-B.Tech_IT_2028-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=academic-cap" alt="Degree" />
+    <img src="https://img.shields.io/badge/Institution-SVCE-38bdf8?style=for-the-badge&labelColor=0d1117" alt="College" />
+  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </div>
 
-<br />
+<!-- ========================================================================= -->
+<!--                              ABOUT ME                                     -->
+<!-- ========================================================================= -->
+<h3>⚡ About Me</h3>
 
-<!-- ========================================================================= -->
-<!--                           STATUS BADGES ROW                               -->
-<!-- ========================================================================= -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech_IT_2028-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=academic-cap" alt="Degree" />
-  <img src="https://img.shields.io/badge/Institution-SVCE-38bdf8?style=for-the-badge&labelColor=0d1117" alt="College" />
-</div>
+<p>
+  Welcome to my GitHub profile! I am <b>Naveen S G</b>, an Information Technology undergraduate at <b>Sri Venkateswara College of Engineering</b> (Expected graduation: 2028). I focus on engineering resilient full-stack web applications, designing intelligent AI and Machine Learning models, exploring geospatial remote sensing architectures, and mastering data structures & cybersecurity concepts.
+</p>
 
-<br />
-
-<!-- ========================================================================= -->
-<!--                    PROGRAMMER CODING ANIMATION                            -->
-<!-- ========================================================================= -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="460" alt="Programmer Coding Animation" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Academic & Milestones</h4>
+      <ul>
+        <li>🏛️ <b>Institution:</b> Sri Venkateswara College of Engineering (SVCE)</li>
+        <li>📜 <b>Degree:</b> B.Tech Information Technology (Class of 2028)</li>
+        <li>💡 <b>Ideathon:</b> Honored with <i>Special Mention</i> for innovative problem solving</li>
+        <li>🎯 <b>Interests & Hobbies:</b> Badminton 🏸 • Book Reading 📚 • Creative Drawing 🎨</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Core Domains & Leadership</h4>
+      <ul>
+        <li>🌐 <b>Engineering Focus:</b> Full-Stack Web Development, AI/ML, Geospatial AI & Remote Sensing</li>
+        <li>🛡️ <b>Systems & DSA:</b> Cybersecurity, System Resilience, Algorithms & Problem Solving</li>
+        <li>🩸 <b>Youth Red Cross:</b> Blood Donation Joint Secretary & Lead Volunteer</li>
+        <li>🌐 <b>Cybernova Club:</b> Outreach Coordinator</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" alt="Programmer Coding Animation" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
 </p>
 
 <!-- ========================================================================= -->
-<!--                          TECH STACK SHOWCASE                              -->
+<!--                          TECHNOLOGY STACK                                 -->
 <!-- ========================================================================= -->
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> Technology & Toolset</h2>
-  <p><i>A curated suite of programming languages, frameworks, and developer workflows I build with:</i></p>
-</div>
+<h3>💻 Technology Stack</h3>
+<p><i>A comprehensive, curated suite of programming languages, frameworks, databases, and developer environments I build with:</i></p>
 
-<br />
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Programming Languages</h4>
+      <p align="left">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="54" height="54" alt="C" /></a>&nbsp;
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="54" height="54" alt="C++" /></a>&nbsp;
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="54" height="54" alt="Java" /></a>&nbsp;
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="54" height="54" alt="Python" /></a>&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="54" height="54" alt="JavaScript" /></a>&nbsp;
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="54" height="54" alt="TypeScript" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend Development</h4>
+      <p align="left">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="54" height="54" alt="HTML5" /></a>&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="54" height="54" alt="CSS3" /></a>&nbsp;
+        <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="54" height="54" alt="React" /></a>&nbsp;
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="54" height="54" alt="Vite" /></a>&nbsp;
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="54" height="54" alt="Tailwind CSS" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Database Systems</h4>
+      <p align="left">
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="54" height="54" alt="Node.js" /></a>&nbsp;
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="54" height="54" alt="Express" /></a>&nbsp;
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="54" height="54" alt="MySQL" /></a>&nbsp;
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="54" height="54" alt="PostgreSQL" /></a>&nbsp;
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="54" height="54" alt="MongoDB" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Artificial Intelligence & Machine Learning</h4>
+      <p align="left">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="54" height="54" alt="Python" /></a>&nbsp;
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="54" height="54" alt="PyTorch" /></a>&nbsp;
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="54" height="54" alt="TensorFlow" /></a>&nbsp;
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikit&theme=dark" width="54" height="54" alt="Scikit-Learn" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🛠️ Developer Tools & Environments</h4>
+      <p align="left">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="54" height="54" alt="Git" /></a>&nbsp;
+        <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="54" height="54" alt="GitHub" /></a>&nbsp;
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="54" height="54" alt="VS Code" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <!-- Languages -->
-  <p><b>💻 Programming Languages</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="Programming Languages" />
-  </a>
-  <br /><br />
-
-  <!-- Frontend Development -->
-  <p><b>🎨 Frontend Engineering</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" alt="Frontend Technologies" />
-  </a>
-  <br /><br />
-
-  <!-- Backend & Databases -->
-  <p><b>⚙️ Backend & Database Systems</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb&theme=dark" alt="Backend & Databases" />
-  </a>
-  <br /><br />
-
-  <!-- Tools & Environments -->
-  <p><b>🛠️ Tools, Version Control & Environments</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools & Environments" />
-  </a>
-</div>
-
-<br />
-<br />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
 
 <!-- ========================================================================= -->
 <!--                    ANIMATED CONTRIBUTION SNAKE                            -->
 <!-- ========================================================================= -->
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" /> Contribution Journey</h2>
-  <p><i>Eating through my contribution matrix step by step:</i></p>
+<h3>🐍 Contribution Journey</h3>
 
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveen-1811/naveen-1811/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveen-1811/naveen-1811/output/github-contribution-grid-snake.svg">
     <img alt="Naveen's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/naveen-1811/naveen-1811/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-</div>
-
-<br />
-<br />
+</p>
 
 <!-- ========================================================================= -->
 <!--                     GITHUB STATS & ANALYTICS                              -->
 <!-- ========================================================================= -->
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" /> GitHub Analytics & Metrics</h2>
-</div>
-
-<br />
+<h3>📈 GitHub Analytics & Metrics</h3>
 
 <!-- Profile Trophies -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/naveen-1811">
     <img src="https://github-trophies.devomb.com/?username=naveen-1811&theme=tokyonight&no-bg=true&margin-w=4" alt="Naveen's GitHub Trophies" />
   </a>
-</div>
-
-<br />
+</p>
 
 <!-- Stats and Top Languages -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/naveen-1811">
-    <img src="https://github-readme-stats.vercel.app/api?username=naveen-1811&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=00f5d4" alt="GitHub Stats" height="195" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveen-1811&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=00f5d4" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/naveen-1811">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-1811&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="195" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-1811&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
   </a>
-</div>
-
-<br />
+</p>
 
 <!-- Streak Stats -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/naveen-1811">
-    <img src="https://streak-stats.demolab.com/?user=naveen-1811&theme=tokyonight&hide_border=false&border_color=38bdf8&background=0d1117&ring=38bdf8&fire=00f5d4&currStreakNum=ffffff" alt="Contribution Streak" />
+    <img width="98.5%" src="https://streak-stats.demolab.com/?user=naveen-1811&theme=tokyonight&hide_border=false&border_color=38bdf8&background=0d1117&ring=38bdf8&fire=00f5d4&currStreakNum=ffffff" alt="Contribution Streak" />
   </a>
-</div>
-
-<br />
+</p>
 
 <!-- Activity Graph -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/naveen-1811">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-1811&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=00f5d4&point=8b5cf6&area=true&hide_border=false&border=38bdf8" alt="Activity Graph" width="100%" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-1811&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=00f5d4&point=8b5cf6&area=true&hide_border=false&border=38bdf8" alt="Activity Graph" />
   </a>
-</div>
-
-<br />
+</p>
 
 <!-- ========================================================================= -->
 <!--                    HONORS, LEADERSHIP & EXTRACURRICULAR                    -->
 <!-- ========================================================================= -->
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" width="30" height="30" /> Leadership & Honors</h2>
-</div>
+<h3>🎖️ Honors & Leadership</h3>
 
-<br />
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <b>💡 Ideathon — Special Mention</b><br />
-      Recognized for innovative thinking, teamwork, and delivering an impactful technical proposal during competitive ideation.
+      Recognized for innovative thinking, teamwork, and technical solution design during competitive ideation.
     </td>
     <td width="50%">
       <b>🩸 Youth Red Cross — Blood Donation Joint Secretary</b><br />
-      Spearheading and coordinating voluntary blood donation camps, donor drives, and life-saving outreach operations.
+      Leading and coordinating voluntary blood donation camps, donor recruitment, and community health initiatives.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <b>🌐 Cybernova Club — Outreach Coordinator</b><br />
-      Managing external relations, community partnerships, technical workshops, and club outreach initiatives.
+      Managing external partnerships, technical events, community engagement, and cross-college workshops.
     </td>
     <td width="50%">
       <b>🤝 Youth Red Cross — Lead Volunteer</b><br />
-      Guiding volunteer teams in executing campus and community service drives, health awareness programs, and civic welfare.
+      Mobilizing volunteer teams for community service drives, health awareness campaigns, and youth welfare.
     </td>
   </tr>
 </table>
 
-<br />
-
 <!-- ========================================================================= -->
 <!--                         FOOTER & CONNECT                                  -->
 <!-- ========================================================================= -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider Line" width="100%" />
+</p>
+
 <div align="center">
-  <h3>Let's Connect & Collaborate</h3>
+  <h3>🤝 Let's Connect & Collaborate</h3>
 
   <a href="https://github.com/naveen-1811" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-naveen--1811-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
@@ -203,8 +237,8 @@
   </a>
   -->
 
-  <br /><br />
+  <br />
   <p><i>"Engineering resilient software through clean architecture and continuous curiosity."</i></p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e1b4b,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e1b4b,100:0d1117&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
